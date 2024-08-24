@@ -66,7 +66,7 @@ $bottoken = "";
 		$banThumbnailURL — Image to show for banning players
 		$unbanThumbnailURL — Image to show for unbanning players
 */
-$webhooksEnabled = false;
+$webhooksEnabled = TRUE;
 $webhooksToEnable = ["rate", "suggest", "demonlist", "ban", "daily"];
 $rateWebhook = "";
 $suggestWebhook = "";
