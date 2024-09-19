@@ -8,7 +8,7 @@
 	
 	If you want DM notifications, this is required
 */
-$discordEnabled = false;
+$discordEnabled = TRUE;
 $secret = "";
 $bottoken = "";
 /*
