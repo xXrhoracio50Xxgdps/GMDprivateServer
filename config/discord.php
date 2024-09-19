@@ -68,13 +68,13 @@ $bottoken = "";
 */
 $webhooksEnabled = TRUE;
 $webhooksToEnable = ["rate", "suggest", "demonlist", "ban", "daily"];
-$rateWebhook = "";
-$suggestWebhook = "";
-$dlWebhook = "";
-$dlApproveWebhook = "";
-$banWebhook = "";
-$dailyWebhook = "";
-$dmNotifications = false;
+$rateWebhook = "https://discord.com/api/webhooks/1239778684857094207/DaUJMD0KNfgjFLswTIB2hltXaYhDUPS_EN_2hx9VjKZdUBiMnj2a9k4jt-GCR8jT9Y2z";
+$suggestWebhook = "https://discord.com/api/webhooks/1239778684857094207/DaUJMD0KNfgjFLswTIB2hltXaYhDUPS_EN_2hx9VjKZdUBiMnj2a9k4jt-GCR8jT9Y2z";
+$dlWebhook = "https://discord.com/api/webhooks/1239778684857094207/DaUJMD0KNfgjFLswTIB2hltXaYhDUPS_EN_2hx9VjKZdUBiMnj2a9k4jt-GCR8jT9Y2z";
+$dlApproveWebhook = "https://discord.com/api/webhooks/1239778684857094207/DaUJMD0KNfgjFLswTIB2hltXaYhDUPS_EN_2hx9VjKZdUBiMnj2a9k4jt-GCR8jT9Y2z";
+$banWebhook = "https://discord.com/api/webhooks/1239778684857094207/DaUJMD0KNfgjFLswTIB2hltXaYhDUPS_EN_2hx9VjKZdUBiMnj2a9k4jt-GCR8jT9Y2z";
+$dailyWebhook = "https://discord.com/api/webhooks/1239778684857094207/DaUJMD0KNfgjFLswTIB2hltXaYhDUPS_EN_2hx9VjKZdUBiMnj2a9k4jt-GCR8jT9Y2z";
+$dmNotifications = TRUE;
 
 $webhookLanguage = 'EN';
 $likeEmoji = ":+1:";
