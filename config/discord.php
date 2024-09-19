@@ -9,7 +9,7 @@
 	If you want DM notifications, this is required
 */
 $discordEnabled = TRUE;
-$secret = "";
+$secret = "DUPS";
 $bottoken = "";
 /*
 	This is Discord webhooks configuration
