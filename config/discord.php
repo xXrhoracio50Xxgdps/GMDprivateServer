@@ -8,7 +8,7 @@
 	
 	If you want DM notifications, this is required
 */
-$discordEnabled = TRUE;
+$discordEnabled = true;
 $secret = "DUPS";
 $bottoken = "";
 /*
@@ -66,7 +66,7 @@ $bottoken = "";
 		$banThumbnailURL — Image to show for banning players
 		$unbanThumbnailURL — Image to show for unbanning players
 */
-$webhooksEnabled = TRUE;
+$webhooksEnabled = true;
 $webhooksToEnable = ["rate", "suggest", "demonlist", "ban", "daily"];
 $rateWebhook = "https://discord.com/api/webhooks/1239778684857094207/DaUJMD0KNfgjFLswTIB2hltXaYhDUPS_EN_2hx9VjKZdUBiMnj2a9k4jt-GCR8jT9Y2z";
 $suggestWebhook = "https://discord.com/api/webhooks/1239778684857094207/DaUJMD0KNfgjFLswTIB2hltXaYhDUPS_EN_2hx9VjKZdUBiMnj2a9k4jt-GCR8jT9Y2z";
@@ -74,7 +74,7 @@ $dlWebhook = "https://discord.com/api/webhooks/1239778684857094207/DaUJMD0KNfgjF
 $dlApproveWebhook = "https://discord.com/api/webhooks/1239778684857094207/DaUJMD0KNfgjFLswTIB2hltXaYhDUPS_EN_2hx9VjKZdUBiMnj2a9k4jt-GCR8jT9Y2z";
 $banWebhook = "https://discord.com/api/webhooks/1239778684857094207/DaUJMD0KNfgjFLswTIB2hltXaYhDUPS_EN_2hx9VjKZdUBiMnj2a9k4jt-GCR8jT9Y2z";
 $dailyWebhook = "https://discord.com/api/webhooks/1239778684857094207/DaUJMD0KNfgjFLswTIB2hltXaYhDUPS_EN_2hx9VjKZdUBiMnj2a9k4jt-GCR8jT9Y2z";
-$dmNotifications = TRUE;
+$dmNotifications = true;
 
 $webhookLanguage = 'EN';
 $likeEmoji = ":+1:";
